@@ -33,10 +33,10 @@ ul {
   max-width: 40rem;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (minmax(320px, 1fr))[2];
-      grid-template-columns: repeat(2, minmax(320px, 1fr));
-  -ms-grid-rows: (minmax(240px, 1fr))[2];
-      grid-template-rows: repeat(2, minmax(240px, 1fr));
+  -ms-grid-columns: (minmax(20rem, 1fr))[2];
+      grid-template-columns: repeat(2, minmax(20rem, 1fr));
+  -ms-grid-rows: 1fr auto;
+      grid-template-rows: 1fr auto;
   border-radius: 7px;
   overflow: hidden;
   -webkit-box-shadow: 0 0 10rem rgba(0, 0, 0, 0.2);

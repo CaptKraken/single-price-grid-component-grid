@@ -44,8 +44,8 @@ ul {
   margin: 2rem;
   max-width: 40rem; //640px
   display: grid;
-  grid-template-columns: repeat(2, minmax(320px, 1fr));
-  grid-template-rows: repeat(2, minmax(240px, 1fr));
+  grid-template-columns: repeat(2, minmax(20rem, 1fr));
+  grid-template-rows: 1fr auto;
 
   border-radius: 7px;
   overflow: hidden;
@@ -140,7 +140,7 @@ ul {
   }
 }
 
-// 500px
+// 704px
 @media only screen and (max-width: 44rem) {
   html {
     font-size: 0.84375rem;
