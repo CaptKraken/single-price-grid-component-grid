@@ -29,7 +29,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [On Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-desktopfirst-html-and-scss-grid-TtpFBwyg6)
-- Live Site URL: [Live Demo](https://captkraken.github.io/single-price-grid-component)
+- Live Site URL: [Live Demo](https://captkraken.github.io/single-price-grid-component-grid/)
 
 ## My process
 
